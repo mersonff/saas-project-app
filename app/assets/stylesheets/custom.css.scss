@@ -107,6 +107,10 @@ body { padding-top: 90px; }
 	margin-top: 5px;
 }
 
+.navbar-brand{
+	margin-top: 10px;
+}
+
 .extra {
 	color: #5cb85c;
 }
@@ -122,4 +126,14 @@ body { padding-top: 90px; }
 
 .no-right-padding {
 	padding-right: 0 !important;
+}
+
+.table tr td {
+	a.main-link {
+		color: #428bca;
+	}
+
+	a.main-link:hover {
+		background: none;
+	}
 }
