@@ -21,6 +21,7 @@ gem 'devise-bootstrap-views'
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'bootswatch-rails'
 gem 'bootstrap-datepicker-rails'
+gem 'aws-sdk'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
