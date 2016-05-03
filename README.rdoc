@@ -1,28 +1,13 @@
-== README
+== Saas Project App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Aplicativo criado durante o curso de desenvolvimento com Rails na platadorma Udemy.
 
-Things you may want to cover:
+Link para a aplicação no Heroku https://emerson-saas-project-app.herokuapp.com/
 
-* Ruby version
+Para testar a aplicação em com o seguinte informação de cartão de crédito para teste:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Number: 4242424242424242
+CVV: qualquer um, exemplo: 021
+Card Expires: qualquer data superior a data atual.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
